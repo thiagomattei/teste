@@ -1,0 +1,1 @@
+export default function CreateGroup() { return <div>Criar Grupo</div>; }

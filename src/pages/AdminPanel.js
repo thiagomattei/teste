@@ -1,0 +1,1 @@
+export default function AdminPanel() { return <div>Painel Admin</div>; }
